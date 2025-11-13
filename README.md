@@ -14,3 +14,8 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 + Step 3: Describe the spread of the data (variance, standard deviation).
 + Step 4: Assess the shape of the data distribution (use histograms, skewness).
 + Step 5: Compare data from different groups (e.g., male vs female performance).
+
+# Author
+
+Alonemapitlula@gmail.com 
+
